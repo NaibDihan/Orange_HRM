@@ -1,6 +1,6 @@
-#Parabank demo project
+# Parabank demo project
 
-##Short summary:
+## Short summary:
 1. Login to the site
 2. Clicked on PIM menu on the left menu sidebar
 3. Clicked on Add button
@@ -10,9 +10,9 @@
 7. Clicked on the contact details from the left pane
 8. Added a mobile number in mobile text field and save it
 
-##Technology used:
--Selenium
--Junit5
+## Technology used:
+- Selenium
+- Junit5
 
 ![image](https://github.com/NaibDihan/Orange_HRM/assets/80912556/72d70745-2ed0-463b-a95c-a89ce4af370a)
 
